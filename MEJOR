@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 , CREADOR: ARTURO ESCOBAR ACTUALIZADA: SEP/24/2020
+#EXTINF:0 , CREADOR: ARTURO ESCOBAR ACTUALIZADA: SEP/28/2020
 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/51/b9/55/51b9557606515ec938f4be601db7a879.jpg", ARMA MORTAL
 https://ia601505.us.archive.org/34/items/arma-mortal-3/ARMA%20MORTAL.mp4 
@@ -57,7 +57,7 @@ https://ia801502.us.archive.org/9/items/karate-kid-4/karate%20kid%203.mp4?cnt=0
 https://ia801502.us.archive.org/9/items/karate-kid-4/karate%20kid%204.mp4 
 
 #EXTINF:0 tvg-logo="https://www.ecured.cu/images/8/8d/Peliculas_4.JPG", RAMBO
-https://ia601404.us.archive.org/23/items/rambo-3_202009/Karate%20Kid%20II.mp4
+https://ia601404.us.archive.org/23/items/rambo-3_202009/RAMBO%201.mp4
 
 #EXTINF:0 tvg-logo="https://cloud10.todocoleccion.online/cine-fotos-postales/tc/2019/01/15/21/147091525_1547585694E83627D0.jpg", RAMBO 2
 https://ia801404.us.archive.org/23/items/rambo-3_202009/RAMBO%202.mp4
@@ -91,6 +91,9 @@ https://ia601502.us.archive.org/0/items/efecto-mariposa-3/la%20maldici%C3%B3n%20
 
 #EXTINF:0 tvg-logo="https://pics.filmaffinity.com/cult_of_chucky-141340185-mmed.jpg", CULT OF CHUCKY
 https://ia601502.us.archive.org/0/items/efecto-mariposa-3/cultura%20of%20chucky.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/child_s_play-138450247-mmed.jpg", EL MUÑECO DIABOLICO
+https://ia601408.us.archive.org/34/items/interestelar_202009/EL%20MU%C3%91ECO%20DIABOLICO.mp4?cnt=0
 
 #EXTINF:0 tvg-logo="https://pics.filmaffinity.com/the_butterfly_effect-524611973-mmed.jpg", EFECTO MARIPOSA
 https://ia601502.us.archive.org/0/items/efecto-mariposa-3/efecto%20mariposa.mp4
@@ -134,6 +137,96 @@ https://ia601402.us.archive.org/31/items/juegos-del-hambre-en-llamas/sinsajo%20p
 #EXTINF:0 tvg-logo="https://pics.filmaffinity.com/the_hunger_games_mockingjay_part_2-413766198-mmed.jpg", SINSAJO PARTE 2
 https://ia601402.us.archive.org/31/items/juegos-del-hambre-en-llamas/sinsajo%20parte%202.mp4
 
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/paranormal_activity-966242275-mmed.jpg" , ACTIVIDAD PARANORMAL 1
+https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/ACTIVIDAD%20PARANORMAL%201.mp4?cnt=0
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/paranormal_activity_2-726661508-mmed.jpg" , ACTIVIDAD PARANORMAL 2
+https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/ACTIVIDAD%20PARANORMAL%202.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/paranormal_activity_3-756156690-mmed.jpg" , ACTIVIDAD PARANORMAL 3
+https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/ACTIVIDAD%20PARANORMAL%203.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/paranormal_activity_4-632998841-mmed.jpg" , ACTIVIDAD PARANORMAL 4
+https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/ACTIVIDAD%20PARANORMAL%204.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/paranormal_activity_the_ghost_dimension-340693799-mmed.jpg" , ACTIVIDAD PARANORMAL DIMENSION FANTASMA
+https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/ACTIVIDAD%20PARANORMAL%205.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/paranormal_activity_the_marked_ones-292924360-mmed.jpg" , ACTIVIDAD PARANORMAL LOS MARCADOS
+https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/ACTIVIDAD%20PARANORMAL%20LOS%20MARCADOS.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/paranomaru_akutibiti_dai_2_sho_tokyo_night_paranormal_activity_2_tokyo_night-493208044-mmed.jpg" , ACTIVIDAD PARANORMAL EL ORIGEN
+https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/ACTIVIDAD%20PARANORMAL%20TOKIO.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/twilight-976997289-mmed.jpg" , CREPUSCULO
+https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/CREPUSCULO.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/the_twilight_saga_new_moon_twilight_2-890518239-mmed.jpg" , LUNA NUEVA
+https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/CREPUSCULO%20LUNA%20NUEVA.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/the_twilight_saga_eclipse_twilight_3-285102910-mmed.jpg" , ECLIPSE
+https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/CREPUSCULO%20ECLIPSE.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/the_twilight_saga_breaking_dawn_part_1-471141705-mmed.jpg" , AMANECER PARTE 1
+https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/CREPUSCULO%20AMANECER%20PARTE%201.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/the_twilight_saga_breaking_dawn_part_2-874720065-mmed.jpg" , AMANECER PARTE 2
+https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/CREPUSCULO%20AMANECER%20PARTE%202.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/now_you_see_me-137911516-mmed.jpg" , ILUSIONISTAS
+https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/ILUSIONISTAS.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/now_you_see_me_2-490181636-mmed.jpg" , ILUSIONISTAS 2
+https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/ILUSIONISTAS%202.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/the_hangover-726045836-mmed.jpg" , ¿QUE PASO AYER?
+https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/Que%20pas%C3%B3%20ayer%20.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/the_hangover_part_ii-126131083-mmed.jpg" , ¿QUE PASO AYER 2?
+https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/QUE%20PASO%20AYER%202.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/the_hangover_part_iii-749776753-mmed.jpg" , ¿QUE PASO AYER 3?
+https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/QUE%20PASO%20AYER%203.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/scream-786162434-mmed.jpg" , SCREAM 1
+https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/SCREAM%201.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/scream_2-316203164-mmed.jpg" , SCREAM 2
+https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/SCREAM%202.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/scream_3-366981876-mmed.jpg" , SCREAM 3
+https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/SCREAM%203.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/scream_4_scre4m-900319390-mmed.jpg" , SCREAM 4
+https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/SCREAM%204.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/i_know_what_you_did_last_summer-786691632-mmed.jpg" , SE LO QUE HICIERON EL VERANO PASADO
+https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/SE%20LO%20QUE%20HICIERON%20EL%20VERANO%20PASADO.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/i_still_know_what_you_did_last_summer-729076148-mmed.jpg" , TODAVIA SE LO QUE HICIERON EL VERANO PASADO
+https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/SE%20LO%20QUE%20HICIERON%20EL%20VERANO%20PASADO%202.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/interstellar-366875261-mmed.jpg", INTERESTELAR
+https://ia601408.us.archive.org/34/items/interestelar_202009/INTERESTELAR.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/ready_player_one-508487059-mmed.jpg", READY PLAYER ONE
+https://ia601408.us.archive.org/34/items/interestelar_202009/READY%20PLAYER%20ONE.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/wolf_creek-422222570-mmed.jpg" , ASESINO DE LA CARRETERA
+https://ia601409.us.archive.org/10/items/wolf-creek/Wolf%20creek.mp4?cnt=0
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fZGWJjStklNAbYfqrinkj9cv0G.jpg" , CASA DE CRISTAL
+https://ia801409.us.archive.org/10/items/wolf-creek/glass%20house.mp4
+
+#EXTINF:0 tvg-logo="https://mascine.org/images/fichas/full/t/Temblores_4_Comienza_la_Leyenda1_fba11742_2004.jpg" , TERROR BAJO LA TIERRA 4
+https://ia801409.us.archive.org/10/items/wolf-creek/terror%20bajo%20la%20tierra%204.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/Terror_bajo_la_tierra_5-886775499-large.jpg" , TERROR BAJO LA TIERRA 5
+https://ia801409.us.archive.org/10/items/wolf-creek/terror%20bajo%20la%20tierra%205.mp4
+
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/0a/14/e6/0a14e63ddaf9678fca665a42fd025249.jpg" , LA GRAN FIESTA
+https://ia801409.us.archive.org/14/items/21-la-gran-fiesta/21%20la%20gran%20fiesta.mp4?cnt=0
+
 #EXTINF:0 tvg-logo="https://pics.filmaffinity.com/wolf_creek-422222570-mmed.jpg", ASESINO DE LA CARRETERA
 https://ia601409.us.archive.org/10/items/wolf-creek/Wolf%20creek.mp4?cnt=0
 
@@ -148,13 +241,6 @@ https://ia801409.us.archive.org/10/items/wolf-creek/terror%20bajo%20la%20tierra%
 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/0a/14/e6/0a14e63ddaf9678fca665a42fd025249.jpg", LA GRAN FIESTA
 https://ia801409.us.archive.org/14/items/21-la-gran-fiesta/21%20la%20gran%20fiesta.mp4?cnt=0
-
-
-
-
-
-
-
 
 
 
