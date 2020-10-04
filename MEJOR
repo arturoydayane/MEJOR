@@ -1,353 +1,58 @@
 #EXTM3U
 
-#EXTINF:0 , CREADOR: ARTURO ESCOBAR ACTUALIZADA: SEP/30/2020
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/cool_runnings-296855521-mmed.jpg", JAMAICA BAJO CERO
+https://s11.netu.tv/download/i35bhSv3xF1eH4C0bjnL4w/1601804483/flv/api/files/videos/2020/10/01/1601576066nctjp.mp4?title=jamaica+bajo+cero.mp4
 
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/51/b9/55/51b9557606515ec938f4be601db7a879.jpg", ARMA MORTAL
-https://ia601505.us.archive.org/34/items/arma-mortal-3/ARMA%20MORTAL.mp4 
-
-#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/c_215_290/pictures/14/03/05/10/10/478427.jpg", ARMA MORTAL 2
-https://ia601505.us.archive.org/34/items/arma-mortal-3/ARMA%20MORTAL%202.mp4?cnt=0  
-
-#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/513MiNWLMfL._SX342_.jpg", ARMA MORTAL 3
-https://ia601505.us.archive.org/34/items/arma-mortal-3/ARMA%20MORTAL%203.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/Arma_letal_4-149791840-large.jpg", ARMA MORTAL 4
-https://ia601505.us.archive.org/34/items/arma-mortal-3/ARMA%20MORTAL%204.mp4 
-
-#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/14/03/14/13/49/384885.jpg", DEPREDADOR
-https://ia601505.us.archive.org/34/items/arma-mortal-3/Depredador.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/Depredador_2-353723034-large.jpg", DEPREDADOR 2
-https://ia601505.us.archive.org/34/items/arma-mortal-3/Depredador%202.mp4 
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/_i0m2gJye5ts/R4ww5_swb4I/AAAAAAAAA8A/-TmYB8-tuTk/s320/aliens-vs-predator_opt2_.jpg", ALIEN VS DEPREDADOR
-https://ia601505.us.archive.org/34/items/arma-mortal-3/Alien%20vs%20Depredador.mp4
-
-#EXTINF:0 tvg-logo="https://es.web.img2.acsta.net/c_215_290/medias/nmedia/18/67/20/19/20237425.jpg", ALIEN VS DEPREDADOR 2
-https://ia601505.us.archive.org/34/items/arma-mortal-3/Alien%20vs%20Depredador%202.mp4
-
-#EXTINF:0 tvg-logo="https://www.ecured.cu/images/3/32/3333.jpg", DEPREDADORES
-https://ia601505.us.archive.org/34/items/arma-mortal-3/Depredadores.mp4
-
-#EXTINF:0 tvg-logo="https://s3.amazonaws.com/statics3.cinemex.com/movie_posters/UoAV9bzMxxpP0HB-360x540.jpg", DEPREDADOR 2018 
-https://ia601505.us.archive.org/34/items/arma-mortal-3/Depredador%202018.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/best_of_the_best-541674850-mmed.jpg", CASTA DE CAMPEONES
-https://ia601500.us.archive.org/2/items/campeon-de-campeones-2_202010/CAMPEON%20DE%20CAMPEONES.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/best_of_the_best_2-546890404-mmed.jpg", CASTA DE CAMPEONES 2
-https://ia601500.us.archive.org/2/items/campeon-de-campeones-2_202010/CAMPEON%20DE%20CAMPEONES%202.mp4 
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/best_of_the_best_3_no_turning_back-643887831-mmed.jpg", CASTA DE CAMPEONES 3
-https://ia601501.us.archive.org/8/items/campeon-de-campeones-2/CAMPEON%20DE%20CAMPEONES%203.mp4?cnt=0
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/best_of_the_best_without_warning-292651984-mmed.jpg", CASTA DE CAMPEONES 4
-https://ia601501.us.archive.org/8/items/campeon-de-campeones-2/CAMPEON%20DE%20CAMPEONES%204.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/halloween-429753384-mmed.jpg", HALLOWEEN
-https://ia601500.us.archive.org/2/items/campeon-de-campeones-2_202010/HALLOWEEN.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/halloween_ii-607028473-mmed.jpg", HALLOWEEN 2
-https://ia601500.us.archive.org/2/items/campeon-de-campeones-2_202010/HALLOWEEN%202.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/halloween_iii_season_of_the_witch_halloween_3-738644391-mmed.jpg", HALLOWEEN 3
-https://ia601500.us.archive.org/2/items/campeon-de-campeones-2_202010/HALLOWEEN%203.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/halloween_4_the_return_of_michael_myers-476103153-mmed.jpg", HALLOWEEN 4
-https://ia601500.us.archive.org/2/items/campeon-de-campeones-2_202010/Ver%20Halloween%204%20El%20regreso%20de%20Michael%20Myers%20Online%20%E2%9C%85%20RePelis.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/halloween_5_the_revenge_of_michael_myers-431909290-mmed.jpg", HALLOWEEN 5
-https://ia601507.us.archive.org/22/items/ver-pelicula-halloween-ii-h-2-online-2009-re-pelis-24-grati/Ver%20Pel%C3%ADcula%20Halloween%205%20-%20La%20venganza%20de%20Michael%20Myers%20Onli.mp4?cnt=0
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/halloween_the_curse_of_michael_myers_halloween_6-352287647-mmed.jpg", HALLOWEEN LA MALDICION
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/halloween_h20_20_years_later-781909356-mmed.jpg", HALLOWEEN H20
-https://ia601500.us.archive.org/2/items/campeon-de-campeones-2_202010/Ver%20Pel%C3%ADcula%20Halloween%20H20%20-%20Veinte%20a%C3%B1os%20despu%C3%A9s%20Online%20%28199.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/halloween_resurrection_halloween_8-597904539-mmed.jpg", HALLOWEEN RESURECCION
-https://ia601409.us.archive.org/2/items/ver-halloween-resurrection-2002-online-latino-hd-pelispl/Ver%20Halloween%20Resurrection%20%282002%29%20Online%20Latino%20HD%20-%20Pelispl.mp4?cnt=0
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/halloween-795073773-mmed.jpg", HALLOWEEN EL ORIGEN
-https://ia601501.us.archive.org/34/items/ver-pelicula-halloween-el-origen-online-2007-re-pelis-24-gr/Ver%20Pel%C3%ADcula%20Halloween%2C%20el%20Origen%20Online%20%282007%29%20RePelis24%20Gr.mp4?cnt=0
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/halloween_ii_h2-903875726-mmed.jpg", HALLOWEEN II H2
-https://ia601507.us.archive.org/22/items/ver-pelicula-halloween-ii-h-2-online-2009-re-pelis-24-grati/Ver%20Pel%C3%ADcula%20Halloween%20II%20%28H2%29%20Online%20%282009%29%20RePelis24%20Grati.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/halloween-511510079-mmed.jpg", NOCHE DE HALLOWEEN
-https://ia601507.us.archive.org/22/items/ver-pelicula-halloween-ii-h-2-online-2009-re-pelis-24-grati/Ver%20Pel%C3%ADcula%20La%20Noche%20de%20Halloween%20Online%20%282018%29%20RePelis24%20G.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/die_hard-336213173-mmed.jpg", DURO DE MATAR
-https://ia601505.us.archive.org/34/items/arma-mortal-3/DURO%20DE%20MATAR.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/Duro_de_matar_2-635091096-large.jpg", DURO DE MATAR 2
-https://ia601505.us.archive.org/34/items/arma-mortal-3/Duro%20de%20matar%202.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/die_hard_with_a_vengeance-191789571-mmed.jpg", DURO DE MATAR 3
-https://ia601505.us.archive.org/34/items/arma-mortal-3/Duro%20de%20matar%203.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/live_free_or_die_hard-993018827-mmed.jpg", DURO DE MATAR 4
-https://ia601505.us.archive.org/34/items/arma-mortal-3/Duro%20de%20Matar%204.mp4
-
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/Lq9k6-IoL7Q/movieposter.jpg", KARATE KID
-https://ia601502.us.archive.org/9/items/karate-kid-4/karate%20kid.mp4
-
-#EXTINF:0 tvg-logo="https://www.filmaboutit.com/data/shp/images/8mZZYZWlqxxp90U7sBmOnI4UZt5.jpg", KARATE KID 2
-https://ia801404.us.archive.org/23/items/rambo-3_202009/Karate%20Kid%20II.mp4?cnt=0
-
-#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/518Z7437YxL._AC_SY445_.jpg", KARATE KID 3
-https://ia801502.us.archive.org/9/items/karate-kid-4/karate%20kid%203.mp4?cnt=0
-
-#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91NHM%2B2a12L._AC_SL1500_.jpg", KARATE KID 4
-https://ia801502.us.archive.org/9/items/karate-kid-4/karate%20kid%204.mp4 
-
-#EXTINF:0 tvg-logo="https://www.ecured.cu/images/8/8d/Peliculas_4.JPG", RAMBO
-https://ia601404.us.archive.org/23/items/rambo-3_202009/RAMBO%201.mp4
-
-#EXTINF:0 tvg-logo="https://cloud10.todocoleccion.online/cine-fotos-postales/tc/2019/01/15/21/147091525_1547585694E83627D0.jpg", RAMBO 2
-https://ia801404.us.archive.org/23/items/rambo-3_202009/RAMBO%202.mp4
-
-#EXTINF:0 tvg-logo="https://cloud10.todocoleccion.online/cine-peliculas-16-mm/tc/2017/09/16/01/97968803.jpg", RAMBO 3
-https://ia801404.us.archive.org/23/items/rambo-3_202009/RAMBO%203.mp4 
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/01/ee/20/01ee200df2787acc5bb00af3620af96f.jpg", RAMBO 4
-https://ia801404.us.archive.org/23/items/rambo-3_202009/RAMBO%204.mp4
-
-#EXTINF:0 tvg-logo="https://www.ginza.se/Archive/Images/item_img_1200/403994.jpg", RAMBO 5
-https://ia801404.us.archive.org/23/items/rambo-3_202009/RAMBO%205.mp4 
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/64/32/32/64323216f74daa0cee8afc696b1a925d.jpg", CHUCKY
-https://ia801508.us.archive.org/33/items/karate-kid-5/chucky.mp4?cnt=0
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/child_s_play_2-714547063-mmed.jpg", CUHCKY 2
-https://ia601502.us.archive.org/0/items/efecto-mariposa-3/chucky%202.mp4?cnt=0
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/child_s_play_3-745810297-mmed.jpg", CHUCKY 3
-https://ia601502.us.archive.org/0/items/efecto-mariposa-3/chucky%203.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/bride_of_chucky-784013992-mmed.jpg", NOVIA DE CHUCKY
-https://ia601502.us.archive.org/0/items/efecto-mariposa-3/la%20novia%20de%20chucky.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/seed_of_chucky-829321833-mmed.jpg", HIJO DE CHUCKY
-https://ia601502.us.archive.org/0/items/efecto-mariposa-3/hijo%20de%20chucky.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/curse_of_chucky-824925552-mmed.jpg", LA MALDICION DE CHUCKY
-https://ia601502.us.archive.org/0/items/efecto-mariposa-3/la%20maldici%C3%B3n%20de%20chucky.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/cult_of_chucky-141340185-mmed.jpg", CULT OF CHUCKY
-https://ia601502.us.archive.org/0/items/efecto-mariposa-3/cultura%20of%20chucky.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/child_s_play-138450247-mmed.jpg", EL MUÑECO DIABOLICO
-https://ia601408.us.archive.org/34/items/interestelar_202009/EL%20MU%C3%91ECO%20DIABOLICO.mp4?cnt=0
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/the_butterfly_effect-524611973-mmed.jpg", EFECTO MARIPOSA
-https://ia601502.us.archive.org/0/items/efecto-mariposa-3/efecto%20mariposa.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/the_butterfly_effect_2-151304139-mmed.jpg", EFECTO MARIPOSA 2
-https://ia601502.us.archive.org/0/items/efecto-mariposa-3/efecto%20mariposa%202.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/the_butterfly_effect_3_revelations-548248705-mmed.jpg", EFECTO MARIPOSA 3
-https://ia601502.us.archive.org/0/items/efecto-mariposa-3/efecto%20mariposa%203.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/home_alone-163260879-mmed.jpg", MI POBRE ANGELITO
-https://ia601502.us.archive.org/0/items/efecto-mariposa-3/mi%20pobre%20angelito.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/home_alone_2_lost_in_new_york-122355314-mmed.jpg", MI POBRE ANGELITO 2
-https://ia601502.us.archive.org/0/items/efecto-mariposa-3/mi%20pobre%20angelito%202.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/final_destination-382848128-mmed.jpg", DESTINO FINAL
-https://ia601402.us.archive.org/31/items/juegos-del-hambre-en-llamas/destino%20final.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/final_destination_2-308919402-mmed.jpg", DESTINO FINAL 2
-https://ia801402.us.archive.org/1/items/destino-final-4/DESTINO%20FINAL%202.mp4?cnt=0
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/final_destination_3-845175628-mmed.jpg", DESTINO FINAL 3
-https://ia601402.us.archive.org/31/items/juegos-del-hambre-en-llamas/destino%20final%20%203.mp4?cnt=0
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/the_final_destination_final_destination_4-201127616-mmed.jpg", DESTINO FINAL 4
-https://ia801402.us.archive.org/1/items/destino-final-4/DESTINO%20FINAL%204.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/final_destination_5-650939978-mmed.jpg", DESTINO FINAL 5
-https://ia601402.us.archive.org/31/items/juegos-del-hambre-en-llamas/destino%20final%205.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/the_hunger_games-928932298-mmed.jpg", JUEGOS DEL HAMBRE
-https://ia601502.us.archive.org/0/items/efecto-mariposa-3/juegos%20del%20hambre.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/the_hunger_games_catching_fire-833694178-mmed.jpg", JUEGOS DEL HAMBRE EN LLAMAS
-https://ia601402.us.archive.org/31/items/juegos-del-hambre-en-llamas/juegos%20del%20hambre%20en%20llamas.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/the_hunger_games_mockingjay_part_i-441255048-mmed.jpg", SINSAJO PARTE 1
-https://ia601402.us.archive.org/31/items/juegos-del-hambre-en-llamas/sinsajo%20parte%201.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/the_hunger_games_mockingjay_part_2-413766198-mmed.jpg", SINSAJO PARTE 2
-https://ia601402.us.archive.org/31/items/juegos-del-hambre-en-llamas/sinsajo%20parte%202.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/paranormal_activity-966242275-mmed.jpg" , ACTIVIDAD PARANORMAL 1
-https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/ACTIVIDAD%20PARANORMAL%201.mp4?cnt=0
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/paranormal_activity_2-726661508-mmed.jpg" , ACTIVIDAD PARANORMAL 2
-https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/ACTIVIDAD%20PARANORMAL%202.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/paranormal_activity_3-756156690-mmed.jpg" , ACTIVIDAD PARANORMAL 3
-https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/ACTIVIDAD%20PARANORMAL%203.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/paranormal_activity_4-632998841-mmed.jpg" , ACTIVIDAD PARANORMAL 4
-https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/ACTIVIDAD%20PARANORMAL%204.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/paranormal_activity_the_ghost_dimension-340693799-mmed.jpg" , ACTIVIDAD PARANORMAL DIMENSION FANTASMA
-https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/ACTIVIDAD%20PARANORMAL%205.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/paranormal_activity_the_marked_ones-292924360-mmed.jpg" , ACTIVIDAD PARANORMAL LOS MARCADOS
-https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/ACTIVIDAD%20PARANORMAL%20LOS%20MARCADOS.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/paranomaru_akutibiti_dai_2_sho_tokyo_night_paranormal_activity_2_tokyo_night-493208044-mmed.jpg" , ACTIVIDAD PARANORMAL EL ORIGEN
-https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/ACTIVIDAD%20PARANORMAL%20TOKIO.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/twilight-976997289-mmed.jpg" , CREPUSCULO
-https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/CREPUSCULO.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/the_twilight_saga_new_moon_twilight_2-890518239-mmed.jpg" , LUNA NUEVA
-https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/CREPUSCULO%20LUNA%20NUEVA.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/the_twilight_saga_eclipse_twilight_3-285102910-mmed.jpg" , ECLIPSE
-https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/CREPUSCULO%20ECLIPSE.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/the_twilight_saga_breaking_dawn_part_1-471141705-mmed.jpg" , AMANECER PARTE 1
-https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/CREPUSCULO%20AMANECER%20PARTE%201.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/the_twilight_saga_breaking_dawn_part_2-874720065-mmed.jpg" , AMANECER PARTE 2
-https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/CREPUSCULO%20AMANECER%20PARTE%202.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/now_you_see_me-137911516-mmed.jpg" , ILUSIONISTAS
-https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/ILUSIONISTAS.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/now_you_see_me_2-490181636-mmed.jpg" , ILUSIONISTAS 2
-https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/ILUSIONISTAS%202.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/the_hangover-726045836-mmed.jpg" , ¿QUE PASO AYER?
-https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/Que%20pas%C3%B3%20ayer%20.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/the_hangover_part_ii-126131083-mmed.jpg" , ¿QUE PASO AYER 2?
-https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/QUE%20PASO%20AYER%202.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/the_hangover_part_iii-749776753-mmed.jpg" , ¿QUE PASO AYER 3?
-https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/QUE%20PASO%20AYER%203.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/scream-786162434-mmed.jpg" , SCREAM 1
-https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/SCREAM%201.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/scream_2-316203164-mmed.jpg" , SCREAM 2
-https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/SCREAM%202.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/scream_3-366981876-mmed.jpg" , SCREAM 3
-https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/SCREAM%203.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/scream_4_scre4m-900319390-mmed.jpg" , SCREAM 4
-https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/SCREAM%204.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/i_know_what_you_did_last_summer-786691632-mmed.jpg" , SE LO QUE HICIERON EL VERANO PASADO
-https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/SE%20LO%20QUE%20HICIERON%20EL%20VERANO%20PASADO.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/i_still_know_what_you_did_last_summer-729076148-mmed.jpg" , TODAVIA SE LO QUE HICIERON EL VERANO PASADO
-https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/SE%20LO%20QUE%20HICIERON%20EL%20VERANO%20PASADO%202.mp4
-
-#EXTINF: 0 tvg-logo="https://pics.filmaffinity.com/look_who_s_talking-787370156-mmed.jpg", MIRA QUIEN HABLA
-https://ia601409.us.archive.org/5/items/casta-de-campeones-2/MIRA%20QUIEN%20HABLA.mp4
-
-#EXTINF: 0 tvg-logo="https://pics.filmaffinity.com/look_who_s_talking_too-640685308-mmed.jpg", MIRA QUIEN HABLA TAMBIEN
-https://ia601409.us.archive.org/5/items/casta-de-campeones-2/Mira%20quien%20habla%20tambi%C3%A9n.mp4
-
-#EXTINF: 0 tvg-logo="https://pics.filmaffinity.com/look_who_s_talking_now-502736500-mmed.jpg", MIRA QUIEN HABLA AHORA
-https://ia601507.us.archive.org/4/items/mira-quien-habla-ahora-look-whos-talking-now-1993-onli/Mira%20qui%C3%A9n%20habla%20ahora%20%28Look%20Who%27s%20Talking%20Now%21%29%20%281993%29%20Onli.mp4?cnt=0
-
-#EXTINF: 0 tvg-logo="https://pics.filmaffinity.com/pet_sematary-918812009-mmed.jpg", CEMENTERIO DE MASCOTAS
-https://ia601409.us.archive.org/5/items/casta-de-campeones-2/Cementerio%20de%20Mascotas.mp4
-
-#EXTINF: 0 tvg-logo="https://pics.filmaffinity.com/pet_sematary_two_pet_sematary_2-387111892-mmed.jpg", CEMENTERIO DE MASCOTAS 2
-https://ia601409.us.archive.org/5/items/casta-de-campeones-2/Cementerio%20de%20Mascotas%202.mp4
-
-#EXTINF: 0 tvg-logo="https://pics.filmaffinity.com/pet_sematary-289818809-mmed.jpg", CEMENTERIO DE MASCOTAS 3
-https://ia601409.us.archive.org/5/items/casta-de-campeones-2/Ver%20Cementerio%20de%20animales%20%282019%29%20Online%20Latino%20HD%20-%20Pelispl.mp4
-
-#EXTINF: 0 tvg-logo="https://pics.filmaffinity.com/wrong_turn-113985199-mmed.jpg", CAMINO HACIA EL TERROR
-https://ia601502.us.archive.org/30/items/verdad-o-reto/CAMINO%20HACIA%20EL%20TERROR.mp4
-
-#EXTINF: 0 tvg-logo="https://pics.filmaffinity.com/wrong_turn_2_dead_end-533595064-mmed.jpg", CAMINO HACIA EL TERROR 2
-https://ia601502.us.archive.org/30/items/verdad-o-reto/CAMINO%20HACIA%20EL%20TERROR%202.mp4?cnt=0
-
-#EXTINF: 0 tvg-logo="https://pics.filmaffinity.com/wrong_turn_4_bloody_beginnings-709721305-mmed.jpg", CAMINO HACIA EL TERROR 4
-https://ia601502.us.archive.org/30/items/verdad-o-reto/CAMINO%20HACIA%20EL%20TERROR%204.mp4
-
-#EXTINF: 0 tvg-logo="https://pics.filmaffinity.com/wrong_turn_5-578175697-mmed.jpg", CAMINO HACIA EL TERROR 5
-https://ia601502.us.archive.org/30/items/verdad-o-reto/CAMINO%20HACIA%20EL%20TERROR%205.mp4
-
-#EXTINF: 0 tvg-logo="https://pics.filmaffinity.com/wrong_turn_6_last_resort-391282624-mmed.jpg", CAMINO HACIA EL TERROR 6
-https://ia601502.us.archive.org/30/items/verdad-o-reto/CAMINO%20HACIA%20EL%20TERROR%206.mp4
-
-#EXTINF: 0 tvg-logo="https://pics.filmaffinity.com/happy_death_day-689393696-mmed.jpg", FELIZ DIA DE TU MUERTE
-https://ia601502.us.archive.org/30/items/verdad-o-reto/FELIZ%20DIA%20DE%20TU%20MUERTE.mp4
-
-#EXTINF: 0 tvg-logo="https://pics.filmaffinity.com/happy_death_day_2u-649457041-mmed.jpg", FELIZ DIA DE TU MUERTE 2
-https://ia601506.us.archive.org/23/items/feliz-dia-de-tu-muerte-2/FELIZ%20DIA%20DE%20TU%20MUERTE%202.mp4?cnt=0
-
-#EXTINF: 0 tvg-logo="https://pics.filmaffinity.com/truth_or_dare-241617683-mmed.jpg", VERDAD O RETO
-https://ia601502.us.archive.org/30/items/verdad-o-reto/VERDAD%20O%20RETO.mp4
-
-#EXTINF: 0 tvg-logo="https://pics.filmaffinity.com/dead_silence-628575805-mmed.jpg", EL TITERE
-https://ia801409.us.archive.org/5/items/casta-de-campeones-2/EL%20TITERE.mp4
-
-#EXTINF: 0 tvg-logo="https://pics.filmaffinity.com/best_of_the_best-541674850-mmed.jpg", CASTA DE CAMPEONES
-https://ia601409.us.archive.org/5/items/casta-de-campeones-2/CASTA%20DE%20CAMPEONES.mp4
-
-#EXTINF: 0 tvg-logo="https://pics.filmaffinity.com/dumbo-807586129-mmed.jpg", DUMBO
-https://ia801409.us.archive.org/5/items/casta-de-campeones-2/DUMBO.mp4
-
-#EXTINF: 0 tvg-logo="https://pics.filmaffinity.com/maleficent-896837493-mmed.jpg", MALEFICA
-https://ia601409.us.archive.org/5/items/casta-de-campeones-2/MALEFICA.mp4
-
-#EXTINF: 0 tvg-logo="https://pics.filmaffinity.com/maleficent_mistress_of_evil-378677710-mmed.jpg", MALEFICA 2
-https://ia601409.us.archive.org/5/items/casta-de-campeones-2/MALEFICA%202.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/interstellar-366875261-mmed.jpg", INTERESTELAR
-https://ia601408.us.archive.org/34/items/interestelar_202009/INTERESTELAR.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/ready_player_one-508487059-mmed.jpg", READY PLAYER ONE
-https://ia601408.us.archive.org/34/items/interestelar_202009/READY%20PLAYER%20ONE.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/wolf_creek-422222570-mmed.jpg" , ASESINO DE LA CARRETERA
-https://ia601409.us.archive.org/10/items/wolf-creek/Wolf%20creek.mp4?cnt=0
-
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fZGWJjStklNAbYfqrinkj9cv0G.jpg" , CASA DE CRISTAL
-https://ia801409.us.archive.org/10/items/wolf-creek/glass%20house.mp4
-
-#EXTINF:0 tvg-logo="https://mascine.org/images/fichas/full/t/Temblores_4_Comienza_la_Leyenda1_fba11742_2004.jpg" , TERROR BAJO LA TIERRA 4
-https://ia801409.us.archive.org/10/items/wolf-creek/terror%20bajo%20la%20tierra%204.mp4
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/Terror_bajo_la_tierra_5-886775499-large.jpg" , TERROR BAJO LA TIERRA 5
-https://ia801409.us.archive.org/10/items/wolf-creek/terror%20bajo%20la%20tierra%205.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/0a/14/e6/0a14e63ddaf9678fca665a42fd025249.jpg" , LA GRAN FIESTA
-https://ia801409.us.archive.org/14/items/21-la-gran-fiesta/21%20la%20gran%20fiesta.mp4?cnt=0
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/el_infierno-441063580-mmed.jpg", El Infierno
+#EXTINF:0  tvg-logo="https://pics.filmaffinity.com/el_infierno-441063580-mmed.jpg",El Infierno
 https://archive.org/download/ein-srregio/EInSRREGIO.mkv
 
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/back_to_the_future-100822308-mmed.jpg", Volver al Futuro 
+#EXTINF:0  tvg-logo="https://pics.filmaffinity.com/back_to_the_future-100822308-mmed.jpg",Volver al Futuro
 https://archive.org/download/qwerty_202001/qwerty.mkv
 
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/back_to_the_future_part_ii-865007932-mmed.jpg", Volver al Futuro 2 
+#EXTINF:0  tvg-logo="https://pics.filmaffinity.com/back_to_the_future_part_ii-865007932-mmed.jpg",Volver al Futuro 2
 https://archive.org/download/qwerty2/qwerty2.mkv
 
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/back_to_the_future_part_iii-223713634-mmed.jpg", Volver al Futuro 3 
+#EXTINF:0  tvg-logo="https://pics.filmaffinity.com/back_to_the_future_part_iii-223713634-mmed.jpg",Volver al Futuro 3
 https://archive.org/download/qwerty3/qwerty3.mkv
 
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/ready_player_one-508487059-mmed.jpg", READY PLAYER ONE
+https://s8.netu.tv/download/i35bhSv3xF1eH4C0bjnL4w/1601804483/flv/api/files/videos/2020/10/02/16016117861s51m.mp4?title=READY+PLAYER+ONE.mp4
 
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/best_of_the_best-541674850-mmed.jpg", CASTA DE CAMPEONES
+https://s8.netu.tv/download/i35bhSv3xF1eH4C0bjnL4w/1601804483/flv/api/files/videos/2020/10/02/1601616801u55my.mp4?title=CAMPEON+DE+CAMPEONES.mp4
 
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/best_of_the_best_2-546890404-mmed.jpg", CASTA DE CAMPEONES 2
+https://s12.netu.tv/download/i35bhSv3xF1eH4C0bjnL4w/1601804483/flv/api/files/videos/2020/10/02/1601617101zdv5b.mp4?title=CAMPEON+DE+CAMPEONES+2.mp4
 
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/halloween-429753384-mmed.jpg", HALLOWEEN
+https://s8.netu.tv/download/i35bhSv3xF1eH4C0bjnL4w/1601804483/flv/api/files/videos/2020/10/02/1601612543zojks.mp4?title=HALLOWEEN.mp4
 
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/halloween_ii-607028473-mmed.jpg", HALLOWEEN 2
+https://s11.netu.tv/download/i35bhSv3xF1eH4C0bjnL4w/1601804483/flv/api/files/videos/2020/10/02/1601611649wszto.mp4?title=HALLOWEEN+2.mp4
 
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/halloween_iii_season_of_the_witch_halloween_3-738644391-mmed.jpg", HALLOWEEN 3
+https://s8.netu.tv/download/i35bhSv3xF1eH4C0bjnL4w/1601804483/flv/api/files/videos/2020/10/02/1601611539hauyw.mp4?title=HALLOWEEN+3.mp4
 
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/halloween_4_the_return_of_michael_myers-476103153-mmed.jpg", HALLOWEEN 4
+https://s8.netu.tv/download/i35bhSv3xF1eH4C0bjnL4w/1601804483/flv/api/files/videos/2020/10/02/16016125665zb0z.mp4?title=HALLOWEEN+4+EL+REGRESO.mp4
 
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/halloween_5_the_revenge_of_michael_myers-431909290-mmed.jpg", HALLOWEEN 5
+https://s11.netu.tv/download/i35bhSv3xF1eH4C0bjnL4w/1601804483/flv/api/files/videos/2020/10/02/1601616521wk10l.mp4?title=HALLOWEEN+5%7E1.mp4
 
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/halloween_the_curse_of_michael_myers_halloween_6-352287647-mmed.jpg", HALLOWEEN LA MALDICION
+https://s12.netu.tv/download/i35bhSv3xF1eH4C0bjnL4w/1601804483/flv/api/files/videos/2020/10/02/16016164459adtp.mp4?title=HALLOWEEN+LA+MALDICION%7E1.mp4
 
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/halloween_h20_20_years_later-781909356-mmed.jpg", HALLOWEEN H20
+https://s11.netu.tv/download/i35bhSv3xF1eH4C0bjnL4w/1601804483/flv/api/files/videos/2020/10/02/1601612004yq5rt.mp4?title=HALLOWEEN+H20.mp4
 
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/halloween_resurrection_halloween_8-597904539-mmed.jpg", HALLOWEEN RESURECCION
+https://s11.netu.tv/download/i35bhSv3xF1eH4C0bjnL4w/1601804483/flv/api/files/videos/2020/10/02/1601612059oslk2.mp4?title=HALLOWEEN+RESURECCION.mp4
 
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/halloween-795073773-mmed.jpg", HALLOWEEN EL ORIGEN
+https://s12.netu.tv/download/i35bhSv3xF1eH4C0bjnL4w/1601804483/flv/api/files/videos/2020/10/02/1601611586h89dk.mp4?title=HALLOWEEN+EL+ORIGEN.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/halloween_ii_h2-903875726-mmed.jpg", HALLOWEEN II H2
+https://s2.netu.tv/download/i35bhSv3xF1eH4C0bjnL4w/1601804483/flv/api/files/videos/2020/10/02/1601616777dx9u6.mp4?title=HALLOWEEN+2+%28H2%29%7E1.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/halloween-511510079-mmed.jpg", NOCHE DE HALLOWEEN
+https://s5.netu.tv/download/i35bhSv3xF1eH4C0bjnL4w/1601804483/flv/api/files/videos/2020/10/02/1601612232rl4pi.mp4?title=NOCHE+DE+HALLOWEEN.mp4
